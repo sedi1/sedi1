@@ -30,10 +30,10 @@ My interests include healthcare data analytics, bioinformatics, clinical data sc
 
 **Clinical Laboratory Scientist – Exact Sciences**
 
-Experience in molecular diagnostics, Cologuard, Next-Generation Sequencing, quality control, and clinical laboratory data workflows.
+Experience in molecular diagnostics, Cologuard, Next-Generation Sequencing, quality control, data management, and clinical laboratory data workflows.
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-- Email: [Add your professional email](mailto:your-email@example.com)
+- LinkedIn: www.linkedin.com/in/sedinam-esiape
+- Email: sesiape261@gmail.com/ sae81@georgetown.edu
 
